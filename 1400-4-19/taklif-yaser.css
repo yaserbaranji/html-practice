@@ -1,0 +1,21 @@
+body {
+    background-color: azure;
+    color: cadetblue;
+    direction: rtl;
+}
+#table-td{
+    background-color: cornsilk;
+    color: darkcyan;
+}
+#yes-td{
+    background-color: dimgray;
+    color: gold;
+}
+#bb-td{
+    background-color: greenyellow;
+    color: lightseagreen;
+}
+#zz-td{
+    background-color: paleturquoise;
+    color: palevioletred;
+}
