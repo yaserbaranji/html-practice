@@ -1,0 +1,38 @@
+html {
+    direction: rtl;
+    background-color: darkgreen;
+}
+
+body {}
+
+#menu {
+    display: block;
+    /**/
+    justify-content: space-between;
+    /**/
+    width: 100%;
+}
+
+#menu .header1-menu {
+    background-color: rgb(143, 93, 190);
+}
+
+#slider {
+    background-color: cornflowerblue;
+}
+
+#content {
+    width: 60%;
+}
+
+#content .photo1 {
+    display: inline-block;
+}
+
+#content .photo1 img {
+    width: 10%;
+}
+
+#footer {
+    background-color: darkgreen;
+}
