@@ -1,0 +1,43 @@
+.position-fixed {
+    background-color: rgb(216, 99, 240);
+    width: 1400px;
+    height: 70px;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    z-index: 1000;
+}
+
+.position-static {
+    width: 300px;
+    height: 700px;
+    position: static;
+    background-color: aquamarine;
+}
+
+.position-absolute {
+    width: 150px;
+    height: 700px;
+    position: absolute;
+    background-color: azure;
+    top: 8px;
+    right: 8px;
+}
+
+.position-relative {
+    width: 1332px;
+    height: 150px;
+    position: relative;
+    background-color: cadetblue;
+    right: 0px;
+    left: 0px;
+}
+
+.position-sticky {
+    position: sticky;
+    top: 10px;
+    width: 400px;
+    height: 300px;
+    left: 0px;
+    background-color: darkgoldenrod;
+}
